@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/lordtunje" target="blank"><img src="https://img.shields.io/twitter/follow/lordtunje?logo=twitter&style=for-the-badge" alt="lordtunje" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **My Company**
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **PHP,Yii2,Wordpress and JS**
+- 💬 Ask me about **PHP/HTML/CSS/JS/Wordpress**
 
 - 📫 How to reach me **ericktunje@gmail.com**
 
