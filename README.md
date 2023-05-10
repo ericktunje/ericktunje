@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **My Company**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel Framework**
 
 - 💬 Ask me about **PHP/HTML/CSS/JS/Wordpress**
 
