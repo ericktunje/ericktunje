@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ericktunje@gmail.com**
 
-- ⚡ Fun fact **I do laugh**
+- ⚡ Fun fact **I do laugh for sure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
