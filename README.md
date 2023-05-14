@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/lordtunje" target="blank"><img src="https://img.shields.io/twitter/follow/lordtunje?logo=twitter&style=for-the-badge" alt="lordtunje" /></a> </p>
 
-- 🔭 I’m currently working on **My Company**
+- 🔭 I’m currently working on **My Company - Tekcode Solutions**
 
 - 🌱 I’m currently learning **Laravel Framework**
 
