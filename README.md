@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 💬 Ask me about **PHP/HTML/CSS/JS/Wordpress**
+- 💬 Ask me about **PHP/HTML/CSS/JS/Wordpress/Digital Marketing**
 
 - 📫 How to reach me **ericktunje@gmail.com**
 
