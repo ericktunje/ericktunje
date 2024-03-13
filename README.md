@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **PHP/HTML/CSS/JS/Wordpress/Digital Marketing**
 
-- 📫 How to reach me **lordtunjeerick@gmail.com**
+- 📫 How to reach me **tekcodevops@gmail.com**
 
 - ⚡ Fun fact **I do laugh for sure**
 
